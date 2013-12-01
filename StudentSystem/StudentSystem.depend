@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1380340639 source:e:\code\codeblocks\codes\studentsystem\studentmain.cpp
+	<iostream>
+	<stdlib.h>
+	<malloc.h>
+	"student.h"
+
+1380550435 e:\code\codeblocks\codes\studentsystem\student.h
+	<stdio.h>
+
+1380340482 source:e:\code\codeblocks\codes\studentsystem\student.cpp
+	<iostream>
+	<stdlib.h>
+	<malloc.h>
+	"student.h"
+

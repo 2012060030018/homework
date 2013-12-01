@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1381745983 source:e:\code\codeblocks\codes\arraysafe\safearraymain.cpp
+	<iostream>
+	"SafeArray.h"
+
+1381744151 e:\code\codeblocks\codes\arraysafe\safearray.h
+	<malloc.h>
+
+1381744151 source:e:\code\codeblocks\codes\arraysafe\safearray.cpp
+	<malloc.h>
+	<iostream>
+	"SafeArray.h"
+
